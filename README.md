@@ -1,0 +1,1 @@
+# Show-the-pixwl-color-of-image-into-the-WS2811-LED-stripe
